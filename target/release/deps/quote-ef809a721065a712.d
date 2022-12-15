@@ -1,0 +1,13 @@
+/home/pluton/juno/cw721-base/target/release/deps/quote-ef809a721065a712.rmeta: /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/pluton/juno/cw721-base/target/release/deps/libquote-ef809a721065a712.rlib: /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/pluton/juno/cw721-base/target/release/deps/quote-ef809a721065a712.d: /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs:
+/home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs:
+/home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs:
+/home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs:
+/home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs:
+/home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs:
+/home/pluton/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs:

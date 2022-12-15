@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/pluton/juno/cw721-base/target/wasm32-unknown-unknown/release/build/typenum-e542032c68d40a3d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/pluton/juno/cw721-base/target/wasm32-unknown-unknown/release/build/typenum-e542032c68d40a3d/out/op.rs
